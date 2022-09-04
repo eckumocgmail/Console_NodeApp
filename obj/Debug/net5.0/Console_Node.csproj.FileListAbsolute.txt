@@ -1,0 +1,16 @@
+D:\NetProjects\Console_Node\bin\Debug\net5.0\Console_Node.exe
+D:\NetProjects\Console_Node\bin\Debug\net5.0\Console_Node.deps.json
+D:\NetProjects\Console_Node\bin\Debug\net5.0\Console_Node.runtimeconfig.json
+D:\NetProjects\Console_Node\bin\Debug\net5.0\Console_Node.runtimeconfig.dev.json
+D:\NetProjects\Console_Node\bin\Debug\net5.0\Console_Node.dll
+D:\NetProjects\Console_Node\bin\Debug\net5.0\Console_Node.pdb
+D:\NetProjects\Console_Node\obj\Debug\net5.0\Console_Node.csproj.AssemblyReference.cache
+D:\NetProjects\Console_Node\obj\Debug\net5.0\Console_Node.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetProjects\Console_Node\obj\Debug\net5.0\Console_Node.AssemblyInfoInputs.cache
+D:\NetProjects\Console_Node\obj\Debug\net5.0\Console_Node.AssemblyInfo.cs
+D:\NetProjects\Console_Node\obj\Debug\net5.0\Console_Node.csproj.CoreCompileInputs.cache
+D:\NetProjects\Console_Node\obj\Debug\net5.0\Console_Node.dll
+D:\NetProjects\Console_Node\obj\Debug\net5.0\refint\Console_Node.dll
+D:\NetProjects\Console_Node\obj\Debug\net5.0\Console_Node.pdb
+D:\NetProjects\Console_Node\obj\Debug\net5.0\Console_Node.genruntimeconfig.cache
+D:\NetProjects\Console_Node\obj\Debug\net5.0\ref\Console_Node.dll

@@ -1,0 +1,16 @@
+D:\NetProjects\Console10_NodeApp\bin\Release\net5.0\Console10_NodeApp.exe
+D:\NetProjects\Console10_NodeApp\bin\Release\net5.0\Console10_NodeApp.deps.json
+D:\NetProjects\Console10_NodeApp\bin\Release\net5.0\Console10_NodeApp.runtimeconfig.json
+D:\NetProjects\Console10_NodeApp\bin\Release\net5.0\Console10_NodeApp.runtimeconfig.dev.json
+D:\NetProjects\Console10_NodeApp\bin\Release\net5.0\Console10_NodeApp.dll
+D:\NetProjects\Console10_NodeApp\bin\Release\net5.0\Console10_NodeApp.pdb
+D:\NetProjects\Console10_NodeApp\obj\Release\net5.0\Console10_NodeApp.csproj.AssemblyReference.cache
+D:\NetProjects\Console10_NodeApp\obj\Release\net5.0\Console10_NodeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetProjects\Console10_NodeApp\obj\Release\net5.0\Console10_NodeApp.AssemblyInfoInputs.cache
+D:\NetProjects\Console10_NodeApp\obj\Release\net5.0\Console10_NodeApp.AssemblyInfo.cs
+D:\NetProjects\Console10_NodeApp\obj\Release\net5.0\Console10_NodeApp.csproj.CoreCompileInputs.cache
+D:\NetProjects\Console10_NodeApp\obj\Release\net5.0\Console10_NodeApp.dll
+D:\NetProjects\Console10_NodeApp\obj\Release\net5.0\refint\Console10_NodeApp.dll
+D:\NetProjects\Console10_NodeApp\obj\Release\net5.0\Console10_NodeApp.pdb
+D:\NetProjects\Console10_NodeApp\obj\Release\net5.0\Console10_NodeApp.genruntimeconfig.cache
+D:\NetProjects\Console10_NodeApp\obj\Release\net5.0\ref\Console10_NodeApp.dll
